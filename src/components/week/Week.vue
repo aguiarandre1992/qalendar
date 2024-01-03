@@ -430,7 +430,7 @@ export default defineComponent({
 <style scoped lang="scss">
 .calendar-week__wrapper {
   position: relative;
-  padding-left: var(--qalendar-week-padding-left);
+  //padding-left: var(--qalendar-week-padding-left);
   overflow-y: auto;
 }
 
